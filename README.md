@@ -16,3 +16,7 @@ Use this PowerShell script to draw images in the PowerShell terminal.
 * Large ratio's result in smaller image outputs in the terminal.
 * Supports PNG images without background (alpha = 0)
 * Works perfect with small/medium images.
+
+## Sample
+![alt sample output](./sample.jpg)
+![alt sample output](./sample2.jpg)
